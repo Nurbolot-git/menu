@@ -99,12 +99,6 @@ filterBtn.forEach(function (btn) {
     });
 });
 
-
-
-
-
-
-
 function displayMenuItem(menuItems) {
     let displayMenu = menuItems.map(function (item) {
         // console.log(item)
